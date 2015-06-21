@@ -1,0 +1,28 @@
+{
+    "name": "keiretsu/multiname",
+    "type": "phpbb-extension",
+    "description": "PHPBB3 extension to allow a user to have multiple names to post as.",
+    "homepage": "https://github.com/nana-keiretsu/multiname",
+    "version": "1.0.0-alpha",
+    "time": "2015-06-21",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Nana Keiretsu",
+            "homepage": "http://www.soulbonding.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "Multiname",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.3,<3.2.*@dev"
+        }
+    }
+}
