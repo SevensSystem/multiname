@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Multiname
+* @package Multiname 
 * @copyright (c) Nana Keiretsu <http://www.soulbonding.org>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *

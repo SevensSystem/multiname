@@ -1,7 +1,7 @@
 {
     "name": "keiretsu/multiname",
     "type": "phpbb-extension",
-    "description": "PHPBB3 extension to allow a user to have multiple names to post as.",
+    "description": "PHPBB3 extension to allow a user to have multiple character names to post as.",
     "homepage": "https://github.com/nana-keiretsu/multiname",
     "version": "1.0.0-alpha",
     "time": "2015-06-21",
